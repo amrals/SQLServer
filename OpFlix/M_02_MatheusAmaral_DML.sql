@@ -43,3 +43,7 @@ INSERT INTO Favoritos(IdUsuario,IdMidia)
 	,(4,1)
 	,(3,1)
 	,(2,2);
+INSERT INTO Midias(Nome,DataLancamento,IdCategoria,Sinopse,Duracao,IdTipoMidia,IdPlataforma)
+	VALUES('Guardiões da Galáxia','31/07/2014',7,'O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan.','2h 5m',3,1);
+INSERT INTO Midias(Nome,DataLancamento,IdCategoria,Sinopse,Duracao,IdTipoMidia,IdPlataforma)
+	VALUES('Guardiões da Galáxia','01/02/2018',7,'O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan.','2h 5m',3,2);
